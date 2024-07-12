@@ -4,5 +4,8 @@
   },
   "NotFound": {
     "message": "The page not found"
+  },
+  "Footer": {
+    "copyright": "All rights reserved."
   }
 }

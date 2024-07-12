@@ -4,5 +4,8 @@
   },
   "NotFound": {
     "message": "Puslapis nerastas"
+  },
+  "Footer": {
+    "copyright": "Visos teisės ginamos."
   }
 }
