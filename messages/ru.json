@@ -4,5 +4,15 @@
   },
   "NotFound": {
     "message": "Stranica nenaidena"
+  },
+  "Footer": {
+    "copyright": "Все права защищены.",
+    "link": "Тренажерный зал в Вильнюсе."
+  },
+  "LocaleSwitcher": {
+    "label": "Kalba",
+    "lt": "Lietuvių",
+    "en": "English",
+    "ru": "Руский"
   }
 }

@@ -6,6 +6,13 @@
     "message": "Puslapis nerastas"
   },
   "Footer": {
-    "copyright": "Visos teisės ginamos."
+    "copyright": "Visos teisės ginamos.",
+    "link": "Sporto klubas Vilniuje."
+  },
+  "LocaleSwitcher": {
+    "label": "Kalba",
+    "lt": "Lietuvių",
+    "en": "English",
+    "ru": "Руский"
   }
 }

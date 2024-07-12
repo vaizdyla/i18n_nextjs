@@ -1,3 +1,11 @@
+import { NavBar } from './navbar';
+import { TopBar } from './topbar/topbar';
+
 export const Header = () => {
-    return <header><div>Top heaer</div><nav>Navigacija</nav></header>
-}
+  return (
+    <header className="flex flex-col">
+      <TopBar />
+      <NavBar />
+    </header>
+  );
+};

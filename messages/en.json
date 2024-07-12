@@ -6,6 +6,13 @@
     "message": "The page not found"
   },
   "Footer": {
-    "copyright": "All rights reserved."
+    "copyright": "All rights reserved.",
+    "link": "Gym in Vilnius."
+  },
+  "LocaleSwitcher": {
+    "label": "Kalba",
+    "lt": "Lietuvių",
+    "en": "English",
+    "ru": "Руский"
   }
 }
