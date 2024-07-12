@@ -1,5 +1,8 @@
 {
   "Index": {
     "title": "Многоязычный Nextjs сайт"
+  },
+  "NotFound": {
+    "message": "Stranica nenaidena"
   }
 }

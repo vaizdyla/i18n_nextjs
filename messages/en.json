@@ -1,5 +1,8 @@
 {
   "Index": {
     "title": "Multilingual Nextjs website"
+  },
+  "NotFound": {
+    "message": "The page not found"
   }
 }
